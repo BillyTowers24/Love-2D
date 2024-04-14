@@ -1,2 +1,3 @@
-# Love-2D
-learning love 2D
+love.draw()
+love.graphics.print (hello, world! 400, 500)
+end
